@@ -1,0 +1,9 @@
+# Local database credentials
+/config/db.php
+
+# Environment and secret files
+.env
+.env.*
+
+# Temporary files
+*.log
